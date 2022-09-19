@@ -10,4 +10,8 @@
     <PackageReference Include="MailKit" Version="3.4.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Screens\" />
+  </ItemGroup>
+
 </Project>
